@@ -25,6 +25,7 @@ The ten fashion class labels include:
 9.  Bag
 10. Ankle boot
 
+*References*
 
 [1. Fashion MNIST with Keras and Deep Learning](https://www.pyimagesearch.com/2019/02/11/fashion-mnist-with-keras-and-deep-learning/)
 
